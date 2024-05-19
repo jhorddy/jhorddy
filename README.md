@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋, soy Jhorddy Ponce Zegarra</h1>
 <h3 align="center">Soy un apasionado desarrollador de software con un enfoque centrado en la innovación y la excelencia técnica. Mi misión es crear soluciones tecnológicas que no solo cumplan con los requisitos funcionales, sino que también superen las expectativas y resuelvan problemas de manera eficiente. A lo largo de mi carrera obtuve 4 años de experiencia en desarrollo de software, trabajó en una variedad de proyectos que abarcan desde aplicaciones web hasta sistemas complejos con equipos de programaodores. Mi enfoque es siempre adoptar las mejores prácticas de codificación y utilizar las últimas tecnologías para garantizar la entrega de productos de alta calidad.</h3>
 
-<p align="left"> <img src="https://komarev.com/ ghpvc/?username=jhorddy&label=Profile%20views&color=0e75b6&style=flat" alt="jhorddy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma /github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=jhorddy" alt="jhorddy" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en **Colaborador en INGENIO-CODE**
 
