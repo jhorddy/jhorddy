@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hola mi nombre es Jhorddy Ponce Zegarra Un apasionado desarrollador de software con un enfoque centrado en la innovación y la excelencia técnica. Mi misión es crear soluciones tecnológicas que no solo cumplan con los requisitos funcionales, sino que también superen las expectativas y resuelvan problemas de manera eficiente.
+A lo largo de mi carrera obtuve 4 años de experiencia en desarrollo de software, he trabajado en una variedad de proyectos que abarcan desde aplicaciones web hasta sistemas complejos con equipos de programaodores. Mi enfoque es siempre adoptar las mejores prácticas de codificación y utilizar las últimas tecnologías para garantizar la entrega de productos de alta calidad.
+
+
 <!--
 **jhorddy/jhorddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
