@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/110214053?v=4" align="center" style="width: 100%" />
+<img src="https://avatars.githubusercontent.com/u/110214053?v=4" align="center" style="width: 30%" />
 </div>  
   
 
-### <div align="center">Soy Jhorddy, un desarrollador independiente de tiempo completo 👨‍💻 que trabaja de forma remota desde 2018 🚀</div>  
+### <div align="center">Soy un desarrollador independiente de tiempo completo 👨‍💻 que trabaja de forma remota desde 2018 🚀</div>  
   
 
 - 🔭 Actualmente estoy trabajando en Colaborador en BITSOX.  
@@ -26,7 +26,7 @@
 
 
 
-### Frontend  
+### Skills 
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -61,11 +61,7 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
-
-
-</td><td valign="top" width="33%">
 
 
 
@@ -78,10 +74,7 @@
 <div align="center">
 <a href="https://github.com/jhorddy" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/carlos-jhorddy-ponce-zegarra-676679293" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 
@@ -94,10 +87,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
@@ -115,5 +104,5 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
-----
+---- 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
