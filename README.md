@@ -15,7 +15,7 @@
 - 📫 Como llegar a contactarme>>>jhorddyponcezegarra@gmail.com  
   
 
-- 👨‍💻 Todos mis proyectos están disponibles en https://jhorddy-ponce-zegarra.netlify.app/  
+- 👨‍💻 Todos mis proyectos están disponibles en https://my-portafolio-v2-jhorddyponcezegarra.netlify.app/
   
 
 <br/>  
